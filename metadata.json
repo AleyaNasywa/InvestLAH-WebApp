@@ -1,0 +1,8 @@
+{
+  "name": "Remix InvestLAH: Geng Celik Duit",
+  "description": "Belajar melabur cara santai, halal, dan mudah untuk pelajar universiti. Jom mula bina masa depan sekarang!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
